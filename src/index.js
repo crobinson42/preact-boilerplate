@@ -1,5 +1,6 @@
 import { preact, h, render, Component } from 'preact';
 
+
 class MyComp extends Component {
   constructor() {
     super();
